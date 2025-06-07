@@ -1,7 +1,6 @@
 ## 👋 Hi there! 
 
 I'm on an exciting learning adventure in the world of software development. I'm building a foundational understanding across various domains rather than specializing early. My toolbox currently includes experiences with:
-* 🔒 **Cybersecurity:** Exploring reverse engineering and binary exploitation.
 * 🧠 **AI/ML:** Working with LLMs, including developing RAG (Retrieval-Augmented Generation) applications with Langchain.
 * ☕🐍#️⃣ **Languages:** Java, Python, C#
 * 🌐 **Web Frameworks:** Python Flask, (currently mastering C# .NET Core for API)
